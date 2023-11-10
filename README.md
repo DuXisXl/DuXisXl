@@ -1,4 +1,8 @@
-## Opa, Eduardo Ramos mais conhecido como DuXis!
+## Opa! Eu Sou Eduardo Ramos mais conhecido como DuXis!
+
+-💻 Futuro Dev Back-End!                                                                                                                                                                  
+ -📖 Atualmente estudando banco de dados!
+
 
 <div>
   
