@@ -1,15 +1,7 @@
 ## Opa! Eu Sou Eduardo Ramos mais conhecido como DuXis!
 
--💻 Futuro Dev Back-End!                                                                                                                                                                  
- -📖 Atualmente estudando banco de dados!
-
-
-<div>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuXisXl&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuXisXl&layout=donut&theme=transparent)](https://github.com/DuXisXl/github-readme-stats)
-</div>
-<br>
+-💻 Dev Back-End!                                                                                                                                                                  
+ -📖 Atualmente estudando C++!
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
